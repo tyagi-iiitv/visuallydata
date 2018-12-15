@@ -7,6 +7,8 @@ We used this data in the reports: https://arxiv.org/pdf/1807.10441 and https://a
 
 To learn how to use the data: [howto.ipynb](https://github.com/cvzoya/visuallydata/blob/master/howto.ipynb)
 
+Links to large data files that could not be directly stored in this repository can be found in [links_to_data_files.md](links_to_data_files.md)
+
 If you use the data or code in this git repo, please consider citing:
 ``` 
 @inproceedings{visually2,
