@@ -13,6 +13,8 @@ This is challenging because text extracted from infographics is not always corre
 
 **Demo:** http://visdata.mit.edu/text-attn-viz
 
+<img src="https://github.com/diviz-mit/visuallydata/blob/master/gitimages/infographics-summary.gif" height="300" />
+
 **Code:** https://github.com/diviz-mit/text-attn-viz (visualization) and https://github.com/diviz-mit/pointer_gen (summarization)
 
 **Source:** A masters of engineering thesis by [Nathan Landman](https://github.com/landmann): ["Towards abstractive captioning of infographics"](https://dspace.mit.edu/handle/1721.1/119743#files-area)
