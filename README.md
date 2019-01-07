@@ -31,6 +31,10 @@ This repo is associated with the following project page: http://visdata.mit.edu/
 * [plot_human_annotations.ipynb](https://github.com/diviz-mit/visuallydata/blob/master/plot_human_annotations.ipynb) loads in data for 1.4K infographics that we collected using crowdsourced (Amazon's Mechanical Turk) annotation tasks. Specifically, we asked participants to annotate the locations of icons inside the infographics. Additionally, [human_annotation_consistency.ipynb](https://github.com/diviz-mit/visuallydata/blob/master/human_annotation_consistency.ipynb) provides some scripts for computing consistency between participants at this annotation task. This data is meant to be used as a ground truth for evaluation of computational models.
 * [save_tag_to_relevant_infographics.ipynb](https://github.com/diviz-mit/visuallydata/blob/master/save_tag_to_relevant_infographics.ipynb) contains scripts to find and plot the infographics that match different text queries, for a [demo retrieval application](http://visdata.mit.edu/explore.html). Search engines typically use meta-data to determine which images to serve based on a search query. They do not look inside the image. In contrast, our automatically pre-computed detections allow us to find the infographics that contain matching text and icons.
 
+### Featured projects ###
+
+* [featured_projects.md](https://github.com/diviz-mit/visuallydata/blob/master/featured_projects.md) contains links to other repositories that use our Visually29K dataset, to seed new project ideas and give students and researchers some potential starting points for projects. 
+
 If you use the data or code in this git repo, please consider citing:
 ``` 
 @inproceedings{visually2,
