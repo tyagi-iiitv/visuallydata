@@ -1,0 +1,1 @@
+This file only exists so that when the repo is cloned this folder gets created automatically. Please populate this folder with the saved models mentioned in the github README. These models were too large to place in github and so have been made available for download through google drive. Thanks!
